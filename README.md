@@ -9,7 +9,7 @@ npm run dev
 Check out the live portfolio here: [My Portfolio](https://myportfolio-zeta-wheat.vercel.app/)
 
 ## 📸 Portfolio Preview
-![Portfolio Preview](public/social/Output Screenshot.png)
+![Portfolio Preview](public/social/output-screenshot.png)
 
 ## 🛠️ Technologies Used
 
